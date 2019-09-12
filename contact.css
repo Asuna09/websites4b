@@ -1,0 +1,16 @@
+.map{
+    height: 800px;
+    width: 48%;
+    display: inline-block;
+    background-color: darkgoldenrod;
+}
+.contact-form{
+    height: 800px;
+    width: 48%;
+    display: inline-block;
+    background-color: blueviolet;
+}
+main{
+    height: 900px;
+    width: 100%;
+}

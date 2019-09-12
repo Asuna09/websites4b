@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(43, 226, 171); 
+}
+h1{
+    font-family: 'Chilanka', cursive;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 200px;
+    text-shadow: 5px 5px white;
+    margin: 0px;
+/* Start Main */
+}
+.words{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+     font-weight-bold;
+     font-size: 35px;
+     text-align: justify;
+     padding: 20px;
+}
+/* End Main */
+/* Start Footer */
+.section{
+
+}

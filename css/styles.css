@@ -1,0 +1,77 @@
+/* font-family: 'Chilanka', cursive;
+    font-family: 'Muli', sans-serif; */
+.nav-bar{
+    background-color: red;
+    height: 200px;
+
+}
+li{
+    list-style-type: none;
+    float: right;
+    padding:30px;
+    font-size:24px;
+    /* border :blueviolet solid 5px; */
+    border-left:blueviolet solid 5px;
+    border-right: blueviolet solid 5px;
+    border-top: blueviolet solid 5px;
+    background-origin: padding-box;
+    border-radius:5px;
+    margin-right: 5px;
+}
+a{
+    color:black;
+}
+.logo{
+    height: 70px;
+    width: 150px;
+}
+.inline{
+        display: inline;
+}
+h2{font-family: 'Chilanka', cursive;
+}
+.social{
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+header{
+    height:50px;
+    background-color: rgb(43, 226, 171);
+}
+ .design{
+     height:300px;
+     width:1000px;
+ }
+.box{
+height: 200px;
+width: 200px;
+border: 1px solid rgba(170, 140, 41, 0.432);
+text-align: center;
+}
+
+ a{
+     text-decoration: aqua;
+ }
+ a:hover{
+     background-color: blue;
+ }
+ .comp{
+     height: 400px;
+     width: 400px;
+    
+ }
+
+ footer{
+    font-size: 15px;
+    color:rgba(10, 2, 2, 0.966);
+    margin-left: 30px;
+    background-color: purple;
+    height: 70PX;
+
+}
+/* footer*/
+.black{
+  color: rgb(7, 5, 12);
+}
+/* and footer*/
